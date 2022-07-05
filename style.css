@@ -1,0 +1,134 @@
+.header{
+    background: url(images/donation13.jpg);
+    background-size:cover;
+    height: 500px;
+    width:1408px;
+    background-repeat: no-repeat;
+  
+}
+.head-text{
+    position: absolute;
+    color: aliceblue;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+}
+.head-text h1{
+    font-size:50px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+
+}
+.header .button{
+    margin: 35px 280px;
+    height: 30px;
+    width: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #e55e0a;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+.donate{
+    text-align:center;
+    margin-top: 100px;
+}
+.flex-container{
+    align-items: center;
+    display: flex;
+    background-color: rgb(247, 246, 247);
+
+}
+.flex-container> div{
+    width: 10px;
+    height: 10px;
+    margin: 50px;
+    padding: 50px;
+    font-size:50px;
+}
+.flex-container .div2{
+    color: crimson;
+    height: 20px;
+    width: 70px;
+    border: 1px solid palevioletred;
+}
+.input{
+    text-align: center;
+    font-size: 100px;
+    width: 500px;
+    left:50%;
+    margin-left: 500px;
+    padding-top: 5px;
+    border-bottom: 1px solid rgb(89, 87, 85);
+}
+.button{
+    width: 90px;
+    height: 50px;
+    background-color: #e55e0a;
+}
+.icon{
+    text-align: center;
+}
+.donate-plan{
+    margin-left: 25%;
+    align-items: center;
+    display: flex;
+    height: 500px;
+    width: 700px;
+}
+.food{
+    margin:20px;
+    padding: 4px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: darkgray;
+    border: 1px solid rgb(133, 130, 133);
+    height: 400px;
+    width: 900px;
+}
+.shelter{
+    margin:20px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: darkgray;
+    border: 1px solid rgb(133, 130, 133);
+    height: 400px;
+    width: 900px;
+}
+.education{
+    margin:20px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: darkgray;
+    border: 1px solid rgb(133, 130, 133);
+    height: 400px;
+    width: 900px;
+}
+.last{
+    text-align: center;
+}
+
+    .subscribe{
+    margin-left: 15%;
+    margin-right: 30%;
+    padding: 4px;
+    border-radius: 5px;
+    background-color:#FCF4F4;
+    border: 1px solid rgb(252, 231, 252);
+    height: 100px;
+    width:60%;
+    }
+    #button {
+        background-color: #e55e0a;
+    }
+    .footer{
+        background-color: navy;
+        height: 150px;
+        width: 100%;
+        margin-top: 10%;
+        color:aliceblue;
+        text-align: center;
+        top:50px;
+    }
