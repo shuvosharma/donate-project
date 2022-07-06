@@ -100,7 +100,7 @@
     padding: 4px;
     border-radius: 5px;
     background-color: rgb(204, 224, 240);
-    border: 1px solid rgb(133, 130, 133);
+    border: 1px solid none;
     height: 400px;
     width: 900px;
 }
@@ -109,7 +109,7 @@
     padding: 4px;
     border-radius: 5px;
     background-color: rgb(241, 222, 222);
-    border: 1px solid rgb(244, 210, 244);
+    border: 1px solid none;
     height: 400px;
     width: 900px;
 }
@@ -118,7 +118,7 @@
     padding: 4px;
     border-radius: 5px;
     background-color: rgb(216, 169, 169);
-    border: 1px solid rgb(133, 130, 133);
+    border: 1px solid none;
     height: 400px;
     width: 900px;
 }
