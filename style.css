@@ -52,9 +52,16 @@
 }
 .flex-container .div2{
     color: crimson;
+    background-color: rgb(231, 202, 180);
     height: 20px;
     width: 70px;
     border: 1px solid palevioletred;
+}
+#sbutton{
+    margin: 0px auto;
+    text-align: center;
+    width: 60px;
+    height: 30px;
 }
 .input{
     text-decoration:none;
