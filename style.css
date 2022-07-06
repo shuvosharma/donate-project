@@ -141,19 +141,19 @@ section{
 .news2 img{
     margin-left: 15%;
     width: 80%;
+
 }
-.last{
+.update{
     text-align: center;
 }
-.subscribe{ 
-    position: absolute;
-    bottom: 20%;
-    padding: 4px;
-    border-radius: 5px;
-    background-color:#FCF4F4;
-    border: 1px solid rgb(252, 231, 252);
-    height: 100px;
-    width:60%;
+.Subscribe{
+    margin:70px;
+    background-color: #fcbfe0;
+    padding: 40px;
+    text-align: center;
+}
+#button{
+    background-color:rgb(227, 8, 81);
 }
 footer {
     padding-top: 20%;
