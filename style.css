@@ -114,6 +114,27 @@
     height: 400px;
     width: 900px;
 }
+section{
+    margin: 20px;
+    padding: 15px;
+    display: flex;
+}
+.news{
+    margin-left: 20px;
+    width: 50%;
+}
+.news img{
+    width: 80%;
+}
+.newsButton{
+        text-decoration: none;
+       background-image: linear-gradient(rgb(239, 30, 149), rgb(213, 102, 83));
+        border-radius: 5%;
+        color: aliceblue;
+        font-weight: 700;
+        padding: 10px 40px;
+
+}
 .last{
     text-align: center;
 }
